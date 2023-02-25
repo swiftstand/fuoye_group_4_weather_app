@@ -1,0 +1,3 @@
+C:/Users/swift/Desktop/xyz/Group4App/build/CMakeFiles/weatherapp.dir
+C:/Users/swift/Desktop/xyz/Group4App/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/swift/Desktop/xyz/Group4App/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\swift\Desktop\xyz\Group4App\build\CMakeFiles\d98265588e146df3739281b6c3917a6e\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C6CAD873-4300-34F4-834F-6D609286092E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

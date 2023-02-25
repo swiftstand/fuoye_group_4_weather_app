@@ -1,0 +1,10 @@
+^C:\USERS\SWIFT\DESKTOP\XYZ\GROUP4APP\BUILD\CMAKEFILES\D98265588E146DF3739281B6C3917A6E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/swift/Desktop/xyz/Group4App -BC:/Users/swift/Desktop/xyz/Group4App/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/swift/Desktop/xyz/Group4App/build/weatherapp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
