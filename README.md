@@ -35,7 +35,7 @@ With no HTTP error the response is parsed, decoded and the weather data outputte
 
 
 ### Usage
-Clone the repository, and then build the project:
+Clone the repository, and then move into directory of the build executable:
 
 ```
 cd build/debug
