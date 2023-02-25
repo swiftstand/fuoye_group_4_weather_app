@@ -1,7 +1,7 @@
 # Group 4 Weather App
 ![Swiftstand](https://www.hawaiinewsnow.com/resizer/a_Q-DzgCKWsHR7lE16qWuCec1cY=/1200x600/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/66OAG5MYKJDMVCL2ZC6FIOVACY.jpg)
 ### Team Leader
-Sulaiman Hammed [Swift](https://github.com/swiftstand)
+Sulaiman Hammed Oladeji [Swift](https://github.com/swiftstand)
 
 
 ### Description
@@ -44,7 +44,7 @@ cd build/debug
 Just run the **weatherapp** executable specifying the name of a city:
 
 ```
-$ .\weather Lagos
+$ .\weatherapp Lagos
 
 --------------------------------------------------------
 | Searching for current weather conditions in: Lagos
@@ -65,5 +65,5 @@ Weather
 If the name of the city which you are searching to obtain the weather conditions is composed by two ore more words, then wrap its name inside quotes:
 
 ```
-$ .\weather "Milton Keynes"
+$ .\weatherapp "Milton Keynes"
 ```
