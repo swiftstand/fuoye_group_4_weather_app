@@ -44,22 +44,23 @@ cd build/debug
 Just run the **weatherapp** executable specifying the name of a city:
 
 ```
-$ .\weatherapp Lagos
+$ .\weatherapp Osogbo
 
 --------------------------------------------------------
-| Searching for current weather conditions in: Lagos
+| Searching for current weather conditions in: Osogbo
 --------------------------------------------------------
 
 Coordinates
-        Latitude: 9.69
-        Longitude: 45.36
+        Latitude: 4.5667
+        Longitude: 7.7667
 Weather
-        Conditions: Fog
-        Temperature: 4.95 °C
-        Pressure: 1035 hPa
-        Humidity: 87%
+        Conditions: Clouds
+        Temperature: 302.76 ┬░C
+        Pressure: 1013 hPa
+        Humidity: 58%
 
 --------------------------------------------------------
+
 ```
 
 If the name of the city which you are searching to obtain the weather conditions is composed by two ore more words, then wrap its name inside quotes:
